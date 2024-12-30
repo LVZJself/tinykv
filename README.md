@@ -1,3 +1,9 @@
+参考资料：
+- https://tanxinyu.work/tinykv/
+- https://github.com/sakura-ysy/TinyKV-2022-doc/blob/main/doc/
+- https://github.com/Smith-Cruise/TinyKV-White-Paper/blob/main/Project1-Standalone-KV.md
+- https://github.com/waruto210/tinykv
+  
 # The TinyKV Course
 
 The TinyKV course builds a key-value storage system with the Raft consensus algorithm. It is inspired by [MIT 6.824](https://pdos.csail.mit.edu/6.824/) and [TiKV Project](https://github.com/tikv/tikv).
